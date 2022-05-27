@@ -1,5 +1,5 @@
 # GithubReleasesUpdateChecker
-A simple libary which allows to check for an update via Github releases.
+A simple libary which allows to check for an update via Github releases.  
 [![CodeFactor](https://www.codefactor.io/repository/github/jandie1505/githubreleasesupdatechecker/badge)](https://www.codefactor.io/repository/github/jandie1505/githubreleasesupdatechecker) [![](https://jitpack.io/v/jandie1505/GithubReleasesUpdateChecker.svg)](https://jitpack.io/#jandie1505/GithubReleasesUpdateChecker)
 
 ## How to use
